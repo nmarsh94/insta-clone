@@ -24,9 +24,9 @@ const Sidebar = () => {
             text: "Create",
         },
         {
-            icon: <Avatar size={"sm"} name="Nico Marsh" src="/profilepic.png" />,
+            icon: <Avatar size={"sm"} name="Nico Marsh" src="/pngegg.png" />,
             text: "Profile",
-            link: "/",
+            link: "/nicomarsh94",
         },
     ];
   return (
