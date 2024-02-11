@@ -27,7 +27,7 @@ const Login = () => {
         onChange={(e) => setInputs({ ...inputs, password: e.target.value })}
       />
 
-      <Button w={"full"} colorSchema="blue" size="sm" fontSize={14}>
+      <Button w={"full"} colorScheme="blue" size="sm" fontSize={14}>
         Log in
       </Button>
     </>
